@@ -9,3 +9,78 @@
 .header-image{
     width: 100%;
 }
+.secound-container{
+    text-align: center;
+
+}
+.boxs{
+    display: flex;
+    justify-content:center;
+    gap: 50px;
+}
+.box{
+    width: 264px;
+    height: 338px;
+    border-radius: 110px 110px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    
+}
+.image-one{
+    width: 70%;
+    padding: 83px 0px 20px 0px;
+    
+}
+.image-two{
+    width: 90%;
+    padding: 80px 20px 40px 20px;
+}
+.image-three{
+    width: 70%;
+    padding: 60px 0px 20px 40px;
+}
+.three{
+    text-align: center;
+    font-weight: bold;
+}
+.two{
+    text-align: center;
+    font-weight: bold;
+}
+.one{
+    text-align: center;
+    font-weight: bold;
+}
+.pinkflower{
+    color: #0f0b0b;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration-line: underline;
+}
+.third-container{
+    width: 1340px;
+    height: 420px;
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    justify-content: space-around;  
+}
+.third-img{
+    width: 50%;
+}
+.fourth-container{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.foutn-images{
+    width: 80%;
+}
+.fouth-container-image{
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    margin: auto;
+}
