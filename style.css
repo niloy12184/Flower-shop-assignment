@@ -7,7 +7,9 @@
     background-color: rgba(229, 84, 115, 0.10);
 }
 .header-image{
-    width: 100%;
+    width: 75%;
+    padding-left: 30px;
+    padding-top: 25px;
 }
 .secound-container{
     text-align: center;
@@ -83,4 +85,57 @@
     width: 80%;
     justify-content: space-around;
     margin: auto;
+    padding-left: 50px;
+}
+.fifth-container{
+    width: 1020px;
+    height: 320px;
+    background-image: url(./New/Rectangle\ 9.png);
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.banner-info{
+    margin-left: 400px;
+    margin-top: 40px;
+
+}
+.gkfoee{
+    padding: 10px 110px 10px 5px;
+    border-radius: 5px;
+    
+    
+}
+.gkfoeeee{
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(136, 26, 87);
+    color: aliceblue;
+}
+.footer-container{
+    width: 1340px;
+    height: 349px;
+    background-color: black;
+    margin-top: 40px;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+.footertwo{
+    padding-top: 90px;
+}
+.shop{
+    color: rgb(255, 0, 0);
+}
+.get-the{
+    font-size: 40px;
+    margin-bottom: 0px;
+
+}
+.text-content{
+    padding-left: 50px;
+    
 }
