@@ -8,8 +8,8 @@
 }
 .header-image{
     width: 75%;
-    padding-left: 30px;
-    padding-top: 25px;
+    padding-left: 50px;
+    padding-top: 19px;
 }
 .secound-container{
     text-align: center;
@@ -138,4 +138,10 @@
 .text-content{
     padding-left: 50px;
     
+}
+.insta{
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
 }
